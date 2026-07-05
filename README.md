@@ -1,1 +1,1 @@
-# awesome-calculator
+# Awesome Calculator - Simple Python Calculator
